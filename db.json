@@ -2,6 +2,7 @@
     "defaultCalcData": {
         "firstNo": 12,
         "secondNo": 10,
-        "operation": "+"
+        "operation": "+",
+        "ans": 22
     }
 }
