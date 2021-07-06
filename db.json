@@ -1,8 +1,8 @@
 {
     "defaultCalcData": {
-        "firstNo": 12,
-        "secondNo": 10,
+        "firstNo": 20,
+        "secondNo": 5,
         "operation": "+",
-        "ans": 22
+        "ans": 25
     }
 }
