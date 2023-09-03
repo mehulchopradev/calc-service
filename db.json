@@ -4,5 +4,10 @@
         "secondNo": 5,
         "operation": "+",
         "ans": 25
+    },
+    "defaultSeriesData": {
+        "n": 7,
+        "fiboSeries": "0,1,1,2,3,5,8",
+        "evenSeries": "0,2,4,6"
     }
 }
