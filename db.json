@@ -1,9 +1,9 @@
 {
     "defaultCalcData": {
-        "firstNo": 20,
+        "firstNo": 25,
         "secondNo": 5,
         "operation": "+",
-        "ans": 25
+        "ans": 30
     },
     "defaultSeriesData": {
         "n": 7,
