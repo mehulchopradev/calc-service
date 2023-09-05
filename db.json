@@ -9,5 +9,9 @@
         "n": 7,
         "fiboSeries": "0,1,1,2,3,5,8",
         "evenSeries": "0,2,4,6"
+    },
+    "seriesDescription": {
+        "fiboDesc": "The fibo series is a mathemtical series where the next number is the addition of the previous two numbers and so on",
+        "evenDesc": "The even series is a mathematical series where the series starts from 0 and the next numbers are alternate numbers and so on"
     }
 }
